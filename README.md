@@ -1,0 +1,79 @@
+# 📊 Super Store Sales Analysis - Power BI Dashboard
+
+## 🔍 Overview
+This project is a **Power BI dashboard** built using the Super Store dataset to analyze business performance. It provides interactive visual insights into sales, profit, customer segments, and regional trends.
+
+---
+
+## 🎯 Objectives
+- Analyze overall **sales and profit performance**
+- Identify **top-performing products and categories**
+- Understand **customer segmentation**
+- Evaluate **regional and state-wise performance**
+- Track **time-based trends** for better decision-making
+
+---
+
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Excel Dataset
+- Data Cleaning & Transformation
+- DAX (Data Analysis Expressions)
+
+---
+
+## 📈 Key Insights
+- Technology category generates the highest revenue
+- Certain products have **high sales but low profit**
+- Western region contributes significantly to total sales
+- Consumer segment dominates overall orders
+- Seasonal patterns impact sales performance
+
+---
+
+## 📊 Dashboard Features
+- Interactive filters (Region, Category, Segment)
+- KPI cards for Sales, Profit, Quantity
+- Sales & Profit trend analysis (Monthly/Yearly)
+- Top 10 Products & Sub-categories
+- Region-wise performance visualization
+
+---
+
+## 📁 Project Files
+- `Super store PBI.pbix` – Power BI Dashboard
+- `README.md` – Project Documentation
+- `Screenshots/` – Dashboard Preview Images
+
+---
+
+## 📷 Dashboard Preview
+_Add screenshots here_
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository
+2. Open it in **Power BI Desktop**
+3. Explore the interactive dashboard
+
+---
+
+## 💡 Business Impact
+This dashboard helps businesses:
+- Make **data-driven decisions**
+- Identify **profit improvement areas**
+- Optimize **sales strategies**
+- Understand **customer behavior**
+
+---
+
+## 📌 Author
+**Your Name**
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub and share your feedback!
