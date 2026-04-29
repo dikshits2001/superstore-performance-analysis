@@ -1,11 +1,11 @@
-# 📊 Super Store Sales Analysis - Power BI Dashboard
+# Super Store Sales Analysis - Power BI Dashboard
 
-## 🔍 Overview
+##  Overview
 This project is a **Power BI dashboard** built using the Super Store dataset to analyze business performance. It provides interactive visual insights into sales, profit, customer segments, and regional trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze overall **sales and profit performance**
 - Identify **top-performing products and categories**
 - Understand **customer segmentation**
@@ -14,7 +14,7 @@ This project is a **Power BI dashboard** built using the Super Store dataset to 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Power BI
 - Excel Dataset
 - Data Cleaning & Transformation
@@ -22,7 +22,7 @@ This project is a **Power BI dashboard** built using the Super Store dataset to 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Technology category generates the highest revenue
 - Certain products have **high sales but low profit**
 - Western region contributes significantly to total sales
@@ -31,7 +31,7 @@ This project is a **Power BI dashboard** built using the Super Store dataset to 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - Interactive filters (Region, Category, Segment)
 - KPI cards for Sales, Profit, Quantity
 - Sales & Profit trend analysis (Monthly/Yearly)
@@ -40,28 +40,21 @@ This project is a **Power BI dashboard** built using the Super Store dataset to 
 
 ---
 
-## 📁 Project Files
+##  Project Files
 - `Super store PBI.pbix` – Power BI Dashboard
 - `README.md` – Project Documentation
 - `Screenshots/` – Dashboard Preview Images
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 _Add screenshots here_
 
 ![Dashboard](screenshots/dashboard.png)
 
 ---
 
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository
-2. Open it in **Power BI Desktop**
-3. Explore the interactive dashboard
-
----
-
-## 💡 Business Impact
+##  Business Impact
 This dashboard helps businesses:
 - Make **data-driven decisions**
 - Identify **profit improvement areas**
@@ -70,8 +63,8 @@ This dashboard helps businesses:
 
 ---
 
-## 📌 Author
-**Your Name**
+##   Author
+Dikshit Sharma
 
 ---
 
