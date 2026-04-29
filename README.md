@@ -79,5 +79,6 @@ This dashboard helps businesses:
 Give it a ⭐ on GitHub and share your feedback!
 
 
-<img width="790" height="283" alt="Screenshot 2026-04-29 153847" src="https://github.com/user-attachments/assets/483fc4a5-6a56-455a-8427-0a3131eb79a1" />
+<img width="1390" height="790" alt="Screenshot 2026-04-29 154653" src="https://github.com/user-attachments/assets/f5a7ab32-4e91-43db-a582-22797eabec05" />
+
 
