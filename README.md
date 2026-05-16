@@ -48,7 +48,6 @@ This project is a **Power BI dashboard** built using the Super Store dataset to 
 ---
 
 ##  Dashboard Preview
-_Add screenshots here_
 
 ![Dashboard](screenshots/dashboard.png)
 
